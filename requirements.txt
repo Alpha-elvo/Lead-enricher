@@ -1,13 +1,6 @@
-# ── Web scraping ─────────────────────────────
 requests==2.32.3
 beautifulsoup4==4.12.3
-lxml==5.2.2          # Faster HTML parser used by BeautifulSoup
-
-# ── Streamlit UI ──────────────────────────────
-streamlit==1.35.0
-
-# ── Database (Supabase) ───────────────────────
-supabase==2.5.1
-
-# ── Email (Resend) ────────────────────────────
-resend==2.3.0
+lxml
+streamlit
+supabase
+resend
